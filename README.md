@@ -54,8 +54,8 @@ O script foi expandido e modularizado para cobrir todos os requisitos obrigatór
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com
-cd web-scraper-g1
+git clone https://github.com/juanvalongo/Web-Scraper-G1.git
+cd Web-Scraper-G1
 ```
 
 ### 2. Configurar e Ativar o Ambiente Virtual (venv)
